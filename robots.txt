@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: https://createwsite.ru/
+Sitemap: https://createwsite.ru/sitemap.xml
